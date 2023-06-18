@@ -5,4 +5,4 @@ Requirements = install using =>  pip install 'numpy,pandas,sklearn,streamlit'
 
 Run File = "streamlit run App_ML1.py"
 
-<img src="App.png"/>
+<img src="App.png">
